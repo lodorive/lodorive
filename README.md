@@ -1,16 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&text=Hi%20I'm%20dori%20👋&animation=twinkling&fontSize=35&fontAlignY=50&fontAlign=50&height=150)
 ---
 
-
-<h3 align="center">저는 풀스택 개발을 공부하는 지망생입니다</h3>
-
-- 🌱 I’m currently learning **Spring Framework**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
----
-
 [![Github](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flodorive&count_bg=%236EFF00&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![dori GitHub stats](https://github-readme-stats.vercel.app/api?username=lodorive&include_all_commits=true&theme=radical&hide_border=true&count_private=true)](https://github.com/lodorive/github-readme-stats)
