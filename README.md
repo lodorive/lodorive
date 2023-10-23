@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&text=Hi%20I'm%20dori%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&text=Hi%20I'm%20dori%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=180)
 <h1 align="center">Hi 👋, I'm dori</h1>
 <h3 align="center">저는 풀스택 개발을 공부하는 지망생입니다</h3>
 
