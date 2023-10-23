@@ -2,6 +2,7 @@
 ---
 [![Github](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flodorive&count_bg=%236EFF00&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
 <h3 align="center">저는 풀스택 개발을 공부하는 지망생입니다</h3>
 
 - 🌱 I’m currently learning **Spring Framework**
@@ -12,7 +13,8 @@
 
 
 
-Skills<br>
+## 🔨 Skills 🔨
+<br>
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
