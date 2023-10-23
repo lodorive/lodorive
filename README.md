@@ -5,6 +5,8 @@
 
 [![dori GitHub stats](https://github-readme-stats.vercel.app/api?username=lodorive&include_all_commits=true&theme=radical&hide_border=true&count_private=true)](https://github.com/lodorive/github-readme-stats)
 
+## 💻 DEV's log 💻
+
 ## 🔨 Skills 🔨
 <br>
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
