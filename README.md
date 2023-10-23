@@ -11,7 +11,7 @@
 <p align="left">
 </p>
 
-[![dori GitHub stats](https://github-readme-stats.vercel.app/api?username=lodorive&include_all_commits=true&theme=dark&hide_border=true&count_private=true)](https://github.com/lodorive/github-readme-stats)
+[![dori GitHub stats](https://github-readme-stats.vercel.app/api?username=lodorive&include_all_commits=true&theme=radical&hide_border=true&count_private=true)](https://github.com/lodorive/github-readme-stats)
 
 ## 🔨 Skills 🔨
 <br>
