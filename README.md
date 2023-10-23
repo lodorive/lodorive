@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&text=Hi%20I'm%20dori%20👋&animation=twinkling&fontSize=35&fontAlignY=50&fontAlign=50&height=150)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flodorive&count_bg=%236EFF00&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
+---
+[![Github](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flodorive&count_bg=%236EFF00&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h3 align="center">저는 풀스택 개발을 공부하는 지망생입니다</h3>
 
