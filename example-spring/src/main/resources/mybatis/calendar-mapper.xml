@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mapper
+    PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+    "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+    
+<mapper namespace="com.dori.test.dao.CalendarDao">
+
+	<insert id="add">
+		insert into calendar(id, calendar_date, calendar_todo) 
+		values(#{id}, #{calendarDate}, #{calendarTodo})
+	</insert>
+	
+<select id="selectList" resultType="CalendarDto">
+    select * from calendar WHERE id=#{id}
+</select>
+
+
+	
+</mapper>
