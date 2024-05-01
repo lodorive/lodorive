@@ -1,0 +1,129 @@
+
+    /* 캘린더를 감싸는 컨테이너 */
+        .calendarContainer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+        height: 100%;
+        margin-bottom: 5em;
+    }
+
+
+    table {
+        border-collapse: collapse;
+        text-align: center;
+    }
+
+    td {
+        border: 1px solid #D1CFCF;
+        padding: 3px;
+        width: 125px;
+        height: 120px;
+         box-sizing: border-box;
+         vertical-align: top;
+    }
+
+    th {
+        border: 1px solid #D1CFCF;
+        font-weight: bold;
+        height: 50px;
+    }
+
+
+    th:nth-child(6) {
+        color: #DD6045;
+    }
+
+    th:nth-last-child(1) {
+        color: #3D85B9;
+    }
+
+    td>.float-container {
+        width: 115px;
+        height: 60px;
+    }
+
+    .div-custom {
+        font-size: 20px;
+        text-align: left;
+    }
+    
+    .todoText{
+		text-align: left;
+	}
+
+    .div-text {
+        font-size: 18px;
+        padding-top: 2.5em
+    }
+
+.topContainer {
+    margin-top: 2em;
+    margin-bottom: 1em;
+    display: flex;
+    justify-content: space-between; /* 요소들을 각각 왼쪽, 가운데, 오른쪽으로 배치 */
+}
+
+.calendarDrop, .calendarButton, .allAdd {
+    display: flex;
+    align-items: center; /* 요소를 세로로 가운데 정렬 */
+}
+
+.calendarDrop{
+	margin-right:11em;
+}
+
+.calendarButton {
+    justify-content: center; /* 가운데 정렬 */
+    font-size: 20px;
+}
+
+.allAddEdit {
+    margin-left: 11em;
+}
+
+
+    #prevMonthButton,
+    #nextMonthButton {
+        border: none;
+        background-color: white;
+    }
+    
+    
+    
+    .modal {
+    display: none; /* 초기에는 모달을 숨김 */
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    height: 50%;
+    overflow: auto;
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+     margin-left: 11em;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+ 

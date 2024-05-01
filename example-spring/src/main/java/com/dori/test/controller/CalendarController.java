@@ -25,7 +25,7 @@ public class CalendarController {
         List<CalendarDto> calendarList = calendarDao.selectList(id);
         model.addAttribute("calendarList", calendarList);
         log.debug("Calendar list size: {}", calendarList.size());
-        return "/WEB-INF/views/calendar.jsp";
+        return "/WEB-INF/views/calendar2.jsp";
     }
 }
 
