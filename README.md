@@ -25,8 +25,9 @@ Check out my projects and feel free to connect!📩<br><br>
 [![홈런볼](https://github.com/lodorive/lodorive/assets/137031580/67fdc1c1-c20f-4c9d-bfa2-4a96391025cb)](https://github.com/LcsCho/Project-Homerunball-Spring-Framework)<br>
 [![미소](https://github.com/lodorive/lodorive/assets/137031580/2affad44-a941-489d-a7c7-e9b2f9ecc7ee)](https://github.com/nnn0008/final-miso)
 
-◾ ◾ ◾<br>
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+◾ ◾ ◾<br>
 
 [![Github](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flodorive&count_bg=%236EFF00&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
