@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&text=Hi%20I'm%20dori%20👋&animation=twinkling&fontSize=35&fontAlignY=50&fontAlign=50&height=150)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&text=YeSeul Park%20render&fontSize=90)
 ---
 
 [![Github](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flodorive&count_bg=%236EFF00&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
