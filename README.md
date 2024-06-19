@@ -22,7 +22,8 @@ Check out my projects and feel free to connect!📩<br><br>
 <br>◾ ◾ ◾
 
 ###### 💻 Portfolio 💻
-![프로필1](https://github.com/lodorive/lodorive/assets/137031580/497655b5-0bba-4e2c-b0a8-ea45e282cf31)
+![홈런볼](https://github.com/lodorive/lodorive/assets/137031580/fc909059-5aea-42ed-830f-bf346ece934e)
+![미소](https://github.com/lodorive/lodorive/assets/137031580/2affad44-a941-489d-a7c7-e9b2f9ecc7ee)
 
 <br>◾ ◾ ◾  
 [![Github](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flodorive&count_bg=%236EFF00&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
