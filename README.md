@@ -4,7 +4,7 @@
 <p><strong>Hi there,</strong>👋</p>
 I'm YeSeul Park, a junior full-stack developer.🌱<br>
 I love coding and learning new technologies.💻<br>
-Check out my projects and feel free to connect!📩<br>
+Check out my projects and feel free to connect!📩<br><br>
 
 ###### 🔨 Tech Stack 🔨
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -19,6 +19,7 @@ Check out my projects and feel free to connect!📩<br>
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)  
+<br><br>❤❤❤
   
 [![Github](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flodorive&count_bg=%236EFF00&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
   
