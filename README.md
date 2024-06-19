@@ -1,15 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YeSeul%20Park%&fontSize=90)
 
-<div align=center>
-<string>Hi there,👋</string><br><br>
+<center>
+  
+**Hi there,**👋<br><br>
 I'm YeSeul Park, a junior full-stack developer.🌱<br>
 I love coding and learning new technologies.💻<br>
-Check out my projects and feel free to connect!📩<br>
-
+Check out my projects and feel free to connect!📩<br><br>
   
 [![Github](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flodorive&count_bg=%236EFF00&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
   
-</div>
+</center>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 
