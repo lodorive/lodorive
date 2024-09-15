@@ -20,7 +20,7 @@ Check out my projects and feel free to connect!📩<br><br>
 ![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)  
 <br>
-![sap](https://img.shields.io/badge/sap-#0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![sap](https://img.shields.io/badge/SAP-#0FAAFF?style=for-the-badge&logo=SAP&logoColor=white)
 <br>◾ ◾ ◾
 
 ###### 💻 Portfolio 💻
